@@ -38,6 +38,6 @@ fb_app_id:
 
 deploy:
   type: git
-  repo: https://github.com/NicoIAAR/iaarblog.github.io
+  repo: https://github.com/NicoIAAR/iaarblog.github.io.git
   branch: master
   message: "{{ now('YYYY-MM-DD HH:mm:ss') }}"
