@@ -1,5 +1,5 @@
 # IAAR Blog
-Web hacha con el framework Hexo de Node.js  
+Web hecha con el framework Hexo de Node.js  
 https://hexo.io/
   
 Requisitos previos:  
